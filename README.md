@@ -1,4 +1,4 @@
-versionning
+versioning
 ===========
 
-Socle versionning
+Socle versioning
