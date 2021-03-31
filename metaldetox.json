@@ -1,0 +1,287 @@
+[{
+    "id": "step1",
+    "tag": "diag.step1",
+    "title": "diag.step1.title",
+    "questions": [
+        {
+            "id": "Q1",
+            "type": "SINGLE",
+            "title": "diag.question.nature",
+            "subtitle": null,
+            "responses": [
+                {
+                    "id": "step1-q1-answer0",
+                    "label": "diag.answer.nature",
+                    "iconName": null,
+                    "iconUrl": null,
+                    "score": 0
+                },
+                {
+                    "id": "step1-q1-answer1",
+                    "label": "diag.answer.nature.1",
+                    "iconName": null,
+                    "iconUrl": null,
+                    "score": 0
+                },
+                {
+                    "id": "step1-q1-answer2",
+                    "label": "diag.answer.nature.2",
+                    "iconName": null,
+                    "iconUrl": null,
+                    "score": 0
+                },
+                {
+                    "id": "step1-q1-answer3",
+                    "label": "diag.answer.nature.3",
+                    "iconName": null,
+                    "iconUrl": null,
+                    "score": 0
+                },
+                {
+                    "id": "step1-q1-answer4",
+                    "label": "diag.answer.nature.4",
+                    "iconName": null,
+                    "iconUrl": null,
+                    "score": 0
+                },
+                {
+                    "id": "step1-q1-answer5",
+                    "label": "diag.answer.nature.5",
+                    "iconName": null,
+                    "iconUrl": null,
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "id": "Q2",
+            "type": "SINGLE",
+            "title": "diag.question.thickness",
+            "subtitle": null,
+            "responses": [
+                {
+                    "id": "step1-q2-answer0",
+                    "label": "diag.answer.thickness",
+                    "iconName": null,
+                    "iconUrl": null,
+                    "score": 0
+                },
+                {
+                    "id": "step1-q2-answer1",
+                    "label": "diag.answer.thickness.1",
+                    "iconName": null,
+                    "iconUrl": null,
+                    "score": 0
+                },
+                {
+                    "id": "step1-q2-answer2",
+                    "label": "diag.answer.thickness.2",
+                    "iconName": null,
+                    "iconUrl": null,
+                    "score": 0
+                }
+            ]
+        }
+    ]
+},
+{
+    "id": "step2",
+    "tag": "diag.step2",
+    "title": "diag.step2.title",
+    "questions": [
+        {
+            "id": "Q3",
+            "type": "MULTI",
+            "title": "diag.question.technicalprocess",
+            "subtitle": "diag.question.technicalprocess.subtitle",
+            "responses": [
+                {
+                    "id": "step2-q3-answer0",
+                    "label": "diag.answer.technicalprocess",
+                    "iconName": "ic_technicalprocess_0",
+                    "iconUrl": "https://naos-loyalty-program.s3.eu-west-3.amazonaws.com/icons/spray.svg.svg",
+                    "score": 0
+                },
+                {
+                    "id": "step2-q3-answer1",
+                    "label": "diag.answer.technicalprocess.1",
+                    "iconName": "ic_technicalprocess_1",
+                    "iconUrl": null,
+                    "score": 0
+                },
+                {
+                    "id": "step2-q3-answer2",
+                    "label": "diag.answer.technicalprocess.2",
+                    "iconName": "ic_technicalprocess_2",
+                    "iconUrl": null,
+                    "score": 0
+                },
+                {
+                    "id": "step2-q3-answer3",
+                    "label": "diag.answer.technicalprocess.3",
+                    "iconName": "ic_technicalprocess_3",
+                    "iconUrl": null,
+                    "score": 0
+                },
+                {
+                    "id": "step2-q3-answer4",
+                    "label": "diag.answer.technicalprocess.4",
+                    "iconName": "ic_technicalprocess_4",
+                    "iconUrl": null,
+                    "score": 0
+                },
+                {
+                    "id": "step2-q3-answer5",
+                    "label": "diag.answer.technicalprocess.5",
+                    "iconName": "ic_technicalprocess_5",
+                    "iconUrl": null,
+                    "score": 0
+                },
+                {
+                    "id": "step2-q3-answer6",
+                    "label": "diag.answer.technicalprocess.6",
+                    "iconName": "ic_technicalprocess_6",
+                    "iconUrl": null,
+                    "score": 0
+                },
+                {
+                    "id": "step2-q3-answer7",
+                    "label": "diag.answer.technicalprocess.7",
+                    "iconName": "ic_technicalprocess_7",
+                    "iconUrl": null,
+                    "score": 0
+                },
+                {
+                    "id": "step2-q3-answer8",
+                    "label": "diag.answer.technicalprocess.8",
+                    "iconName": "ic_technicalprocess_8",
+                    "iconUrl": null,
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "id": "Q4",
+            "type": "SINGLE",
+            "title": "diag.question.lastprocess",
+            "subtitle": null,
+            "responses": [
+                {
+                    "id": "setp2-q4-answer0",
+                    "label": "diag.answer.lastprocess",
+                    "iconName": null,
+                    "iconUrl": null,
+                    "score": 0
+                },
+                {
+                    "id": "setp2-q4-answer1",
+                    "label": "diag.answer.lastprocess.1",
+                    "iconName": null,
+                    "iconUrl": null,
+                    "score": 0
+                },
+                {
+                    "id": "setp2-q4-answer2",
+                    "label": "diag.answer.lastprocess.2",
+                    "iconName": null,
+                    "iconUrl": null,
+                    "score": 0
+                },
+                {
+                    "id": "setp2-q4-answer3",
+                    "label": "diag.answer.lastprocess.3",
+                    "iconName": null,
+                    "iconUrl": null,
+                    "score": 0
+                }
+            ]
+        }
+    ]
+},
+{
+    "id": "step3",
+    "tag": "diag.step3",
+    "title": "diag.step3.title",
+    "questions": [
+        {
+            "id": "Q5",
+            "type": "SINGLE",
+            "title": "diag.question.wash",
+            "subtitle": null,
+            "responses": [
+                {
+                    "id": "setp3-q5-answer0",
+                    "label": "diag.answer.wash",
+                    "iconName": null,
+                    "iconUrl": null,
+                    "score": 0
+                },
+                {
+                    "id": "setp3-q5-answer1",
+                    "label": "diag.answer.wash.1",
+                    "iconName": null,
+                    "iconUrl": null,
+                    "score": 0
+                },
+                {
+                    "id": "setp3-q5-answer2",
+                    "label": "diag.answer.wash.2",
+                    "iconName": null,
+                    "iconUrl": null,
+                    "score": 0
+                },
+                {
+                    "id": "setp3-q5-answer3",
+                    "label": "diag.answer.wash.3",
+                    "iconName": null,
+                    "iconUrl": null,
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "id": "Q6",
+            "type": "SINGLE",
+            "title": "diag.question.swim",
+            "subtitle": null,
+            "responses": [
+                {
+                    "id": "setp3-q6-answer0",
+                    "label": "diag.answer.swim",
+                    "iconName": null,
+                    "iconUrl": null,
+                    "score": 0
+                },
+                {
+                    "id": "setp3-q6-answer1",
+                    "label": "diag.answer.swim.1",
+                    "iconName": null,
+                    "iconUrl": null,
+                    "score": 0
+                },
+                {
+                    "id": "setp3-q6-answer2",
+                    "label": "diag.answer.swim.2",
+                    "iconName": null,
+                    "iconUrl": null,
+                    "score": 0
+                }
+            ]
+        }
+    ]
+},
+{
+    "id": "step4",
+    "tag": "diag.step4",
+    "title": "diag.step4.title",
+    "questions": [
+        {
+            "id": "Q7",
+            "type": "COUNTRY",
+            "title": "diag.question.country",
+            "subtitle": null,
+            "responses": []
+        }
+    ]
+}
+]
